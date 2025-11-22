@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="N3alNN2q8i8JU" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:langstring>ComunicareExam</lom:langstring>
+</lom:title>
+<lom:keyword>
+<lom:langstring>TACertificationExam</lom:langstring>
+</lom:keyword>
+</lom:general>
+<lom:educational>
+<lom:typicallearningtime>
+<lom:datetime>00:00:00</lom:datetime>
+</lom:typicallearningtime>
+</lom:educational>
+</lom:lom>
+</metadata>
+<organizations default="comunicareexam_organization">
+<organization identifier="comunicareexam_organization">
+<title>ComunicareExam</title>
+<item identifier="B9721958-1DF8-41B5-B056-9DC24F78EEE6" identifierref="resource">
+<title>TA Certification Exam</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/fonts/fnt3.woff"/>
+<file href="res/data/quiz1/fonts/fnt4.woff"/>
+<file href="res/data/quiz1/images/img-0463db779c6e6e9413154f4b7cd70e31149f1b71.png"/>
+<file href="res/data/quiz1/images/img-1430f0e0b14654eef2b1b58d28f58c07af0fb2a1.png"/>
+<file href="res/data/quiz1/images/img-235bd6082ad1b46b5c8069abdbed774c88599152.png"/>
+<file href="res/data/quiz1/images/img-282355f4368332955a3056d6f14ca23357c192c1.png"/>
+<file href="res/data/quiz1/images/img-3dcde87e0724a87b4e82ffad14496e571081e07b.png"/>
+<file href="res/data/quiz1/images/img-60fd1eb500668c5a12baebadd404ae42f0695556.png"/>
+<file href="res/data/quiz1/images/img-77eb2b5239085fa9995d011721d42681392793b8.png"/>
+<file href="res/data/quiz1/images/img-97c38a3cbd058b49fde4d33d63880c69442d8d53.png"/>
+<file href="res/data/quiz1/images/img-a45881c9037cb33d6257bbd95c9ce8d39898a878.png"/>
+<file href="res/data/quiz1/images/img-afd4538536ad88c9f4ed9bed08440df6b0b8b0e6.png"/>
+<file href="res/data/quiz1/images/img-b0f25a3546653da7f5c20bdb58bb1b2688fd578e.png"/>
+<file href="res/data/quiz1/images/img-b649503ad0b5952907ee13fb219e6f8ef5c34927.png"/>
+<file href="res/data/quiz1/images/img-ba6cd4871eef07d7cbfbf62735c33529c0a10587.png"/>
+<file href="res/data/quiz1/images/img-c574826c99c9b5862fca18c083c5c7e65fda62f5.png"/>
+<file href="res/data/quiz1/images/img-cc1675e13eb5bc9dea5428439196165ec89a7fb4.png"/>
+<file href="res/data/quiz1/images/img-ce0308962ae499a4e13af9aa59e276d6f429c39a.png"/>
+<file href="res/data/quiz1/images/img-d65faa927b06c3ecd0e18ff5da153a04392c736d.png"/>
+<file href="res/data/quiz1/images/img-e3a6ef11dd3978bba43fb7ed3ffb1be3a855f6c1.png"/>
+<file href="res/data/quiz1/images/img-e5488e527963bd677c0bfb1ebdd901dbf9e51cc2.png"/>
+<file href="res/data/quiz1/images/img-e669f3741720a8b78c2ca8f5a80ce88f66f7aed9.png"/>
+<file href="res/data/quiz1/images/img-ed1130f9853cb65eeb9d6435e12404bf450f912a.png"/>
+<file href="res/data/quiz1/images/img-f517461266d14752b01b0a93f3909abcd7a71548.png"/>
+<file href="res/data/quiz1/images/img-fa300dbd3f51d851c03e9f921103c08efa940e19.png"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img3.png"/>
+</resource>
+</resources>
+</manifest>
